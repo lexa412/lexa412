@@ -241,6 +241,7 @@ a {
 
 .card {
     min-height: 100px;
+    
     box-sizing: border-box;
     background: #000000;
     mix-blend-mode: normal;
